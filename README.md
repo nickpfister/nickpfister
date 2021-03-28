@@ -2,7 +2,7 @@ Hi, I’m @nickpfister.
 
 I'm a game developer specializing in Unity and mobile. I currently work as a software engineer at Jam City.
 
-In my free time, I like expanding my knowledge of game development and mobile apps. Right now, I'm learning SwiftUI and working on an open source running app which plan to release this sometime in 2021.
+In my free time, I like expanding my knowledge of game development and mobile apps. Right now, I'm learning SwiftUI and working on an open source running app which plan to release sometime in 2021.
 
 My top languages are C# and Swift. Though my main focus is in improving my existing skillset, I'm also interested in learning C++ (for a better understanding of game engines), Objective C (for a better understanding of iOS and MacOS environments), and Blender (for a better understanding of the 3D art pipeline).
 
